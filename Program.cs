@@ -16,6 +16,7 @@ namespace searchElement
              var searchResult = Array.Find(locations, element => element.StartsWith("l".ToUpper()));
 
              Console.WriteLine(searchResult);
+            Console.WriteLine("Is it working???");
         }
     }
 }
