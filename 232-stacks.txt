@@ -1,0 +1,24 @@
+using System;
+namespace example
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+    
+  	Stack<string> inventoryNumbers = new Stack<string>();
+	inventoryNumbers.Push("101");
+	inventoryNumbers.Push("102");
+	inventoryNumbers.Push("103");
+	inventoryNumbers.Push("104");
+	//Console.WriteLine(inventoryNumbers.Pop());
+	
+	
+	foreach (string inventoryNumber in inventoryNumbers)
+	{
+	    Console.WriteLine(inventoryNumber);
+	}
+	//Console.WriteLine(inventoryNumbers.Peek());
+     }
+  }
+}
