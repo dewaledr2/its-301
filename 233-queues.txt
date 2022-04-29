@@ -1,4 +1,5 @@
 # Made by FA 2000
+# Now I'm changing this from GitHub. Please pull to my PC afterwards
 using System;
 namespace example
 {
