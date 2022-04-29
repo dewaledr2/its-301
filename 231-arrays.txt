@@ -15,7 +15,7 @@ namespace example
      }
   }
 }
-=======
+======= =================================================
 using System;
 namespace example
 {

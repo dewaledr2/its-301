@@ -13,7 +13,7 @@ namespace example
 	inventoryNumbers.Push("104");
 	//Console.WriteLine(inventoryNumbers.Pop());
 	
-	
+	///
 	foreach (string inventoryNumber in inventoryNumbers)
 	{
 	    Console.WriteLine(inventoryNumber);
