@@ -1,0 +1,16 @@
+using System;
+namespace example
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+    
+  	string[] locations = {"Centennial","Denver","Louisville","Vail"};
+	  Console.WriteLine(locations[0]);
+	// locations[3]="Lakewood";
+	   location[3] = "Limerick"; //Modified this on my PC
+	// Console.WriteLine(locations[3]);
+     }
+  }
+}
