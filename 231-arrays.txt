@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+// I have a comment here now
 using System;
 namespace example
 {
